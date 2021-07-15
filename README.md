@@ -1,4 +1,5 @@
 # readmotionsensor
+![motionsensor](https://user-images.githubusercontent.com/5597377/125820497-0b15a502-ab21-4632-84d5-b05d3bb5bbe2.jpg)
 
 WeDo2.0 Motion sensorをLEGO(R) SPIKE Prime Hubに接続するプログラムです。
 
